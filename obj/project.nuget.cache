@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GYSBwIledtbMDHz15rN/7S3J20wSE9JUpbP05PzYAaQA450f70wsk82T+9wWRb10dP/veFQH97xh8BtPa/HhVA==",
+  "dgSpecHash": "k9z4Hm++SxP30CXZaPbCdd/61V9+aKAk8knnti9koxsHPbSC9PKXZtou3tWDI5RLRPjxpW8SZw3pFECjBeZFOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\josep\\Documents\\Code\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
